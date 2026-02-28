@@ -1,12 +1,16 @@
-# 🐍 Python Fundamentals Journey
-Welkom bij mijn centrale opslagplaats voor alles wat met Python te maken heeft. Hier houd ik mijn voortgang bij van verschillende cursussen en projecten.
+# 🐍 Python Learning Repository
 
-## 📚 Leerpaden
-### 🎓 [UCLL - Programming 1](./UCLL-Programming-1/)
-Opleidingsonderdeel van mijn bachelor Toegepaste Informatica.
+Welkom bij mijn centrale opslagplaats voor alles wat met Python te maken heeft. Ik gebruik deze repository om mijn code, opdrachten en voortgang bij te houden tijdens mijn bacheloropleiding Toegepaste Informatica (afstandsonderwijs) aan de UCLL, aangevuld met gerichte zelfstudie.
 
-### 🎥 [FreeCodeCamp - Python Basics](./Python-Basics/)
-Zelfstudiecursus van Free Code Camp gericht op de fundamentals van Python.
+## 📚 Leerpaden & Mappenstructuur
 
-### 📺 [YouTube Tutorials](./Python-Tutorial-for-Beginners/)
-Diverse bronnen voor specifieke oefeningen/projecten.
+Hieronder vind je een overzicht van de verschillende modules in deze repository. Klik op een map om de bijbehorende projecten te bekijken:
+
+### 🎓 [Programming 1](./Programming1/)
+Oefeningen, projecten en cursusmateriaal voor het opleidingsonderdeel Programming 1 aan de UCLL.
+
+### 🎥 [Python Basics](./Py_Basics/)
+Code en notities van de FreeCodeCamp zelfstudiecursus, gericht op het beheersen van de Python fundamentals.
+
+### 📺 [Python Tutorials](./Py_Tutorial/)
+Korte projecten en testscripts gebaseerd op diverse (YouTube) tutorials om specifieke concepten verder uit te diepen.
