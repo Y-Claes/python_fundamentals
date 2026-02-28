@@ -1,6 +1,6 @@
 # 🐍 Python Learning Repository
 
-Welkom bij mijn centrale opslagplaats voor alles wat met Python te maken heeft. Ik gebruik deze repository om mijn code, opdrachten en voortgang bij te houden tijdens mijn bacheloropleiding Toegepaste Informatica (afstandsonderwijs) aan de UCLL, aangevuld met gerichte zelfstudie.
+Welkom bij mijn centrale opslagplaats voor alles wat met Python te maken heeft. Ik gebruik deze repository om mijn code, opdrachten en voortgang bij te houden tijdens mijn bacheloropleiding Toegepaste Informatica (afstandsonderwijs) aan de UCLL, aangevuld met gerichte zelfstudie via FreeCodeCamp.
 
 ## 📚 Leerpaden & Mappenstructuur
 
@@ -10,7 +10,7 @@ Hieronder vind je een overzicht van de verschillende modules in deze repository.
 Oefeningen, projecten en cursusmateriaal voor het opleidingsonderdeel Programming 1 aan de UCLL.
 
 ### 🎥 [Python Basics](./Py_Basics/)
-Code en notities van de FreeCodeCamp zelfstudiecursus, gericht op het beheersen van de Python fundamentals.
+Oefencursus [FreeCodeCamp](https://www.freecodecamp.org/learn/python-v9), gericht op het beheersen van de Python fundamentals.
 
 ### 📺 [Python Tutorials](./Py_Tutorial/)
-Korte projecten en testscripts gebaseerd op diverse (YouTube) tutorials om specifieke concepten verder uit te diepen.
+De Python lessenreeks van [FreeCodeCamp](https://youtu.be/qwAFL1597eM?si=COMM1620B1pc_tAI) op YouTube. 
